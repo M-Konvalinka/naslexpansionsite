@@ -2,6 +2,7 @@
 // import from below is not correctly, probably due to where the file is being called from
 import styles from '~/styles/Home.module.css'
 
+// styles.title is not a valid css file atm
 export default function About() {
     return (
       <div>
