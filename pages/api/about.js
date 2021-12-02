@@ -1,6 +1,4 @@
-// Next.js API route support: https://nextjs.org/docs/api-routes/introduction
-// import from below is not correctly, probably due to where the file is being called from
-// import styles from '../../styles/global.css'
+// funtion below needs to be called somewhere in the index or _app.js file
 
 function About(){
   return <div>TEST </div>
