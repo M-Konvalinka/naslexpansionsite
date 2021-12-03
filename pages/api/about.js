@@ -4,6 +4,8 @@ function About(){
   return <div>TEST </div>
 }
 
+About();
+
 export default About
 
 /*
