@@ -4,6 +4,7 @@ function About(){
   return <div>TEST </div>
 }
 
+/// function is not compliling correctly to push the component to the /api/about page 
 About();
 
 export default About
