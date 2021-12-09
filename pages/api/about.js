@@ -6,16 +6,3 @@ function About(){
 
 
 export default About
-
-/*
-export default function About() {
-    return (
-      <div>
-           Testing About Page
-      </div>
-    )
-  }
-
-About();
-
-*/ 
