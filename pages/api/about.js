@@ -1,6 +1,5 @@
-function About(){
-  return <div>TEST </div>
+export default function About(){
+  return(
+    <h1> test </h1>
+  )
 }
-
-
-export default About
